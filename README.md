@@ -1,2 +1,2 @@
-# 该脚本是下载一个tumblr账户下的所有图片
-# 比如：http://nasa.tumblr.com/
+#＃ 该仓库存放一些python的玩具脚本
+1. `tumblr_picture_download.py`作用是下载某个tumblr的所有图片 
